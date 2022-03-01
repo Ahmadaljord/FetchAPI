@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.user {
+    margin: auto;
+    background-color: #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 0 solid transparent;
+    border-radius: 5px;
+    width: 250px;
+
+}
+
+.user img {
+    border: 5px solid white;
+    border-radius: 50%;
+}
